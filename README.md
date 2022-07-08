@@ -23,6 +23,8 @@ Build your container: `docker build -t slynite-web .`.
 
 Run your container: `docker run -p 3000:3000 slynite-web`.
 
+## Important
+You need to add content to the content folders for the website to work
 
 ## Understand Versions
 You would wonder how a version is construct for this project, but actually it is very easy and simple to understand.
